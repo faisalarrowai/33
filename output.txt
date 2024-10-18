@@ -1,0 +1,4 @@
+[?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\breezy-gray> [?25l[91m[7;54H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_F[97m[2m[3mAILURE" }[m[7;54H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\breezy-gray> [93mcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\breezy-gray
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\breezy-gray> 

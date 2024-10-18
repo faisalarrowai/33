@@ -1,1 +1,34 @@
-
+appName: breezy-gray
+appUniqueId: faisalarrowai/breezy-gray
+appInfo:
+  description: my calculator app
+  appVersion: 1.0.0
+  appRepoUrl: https://github.com/faisalarrowai/33.git
+  appIconUrl: ''
+  appAuthorUserId: faisalarrowai
+  forkedFrom: ''
+technicalInfo:
+  supportedLanguages: []
+  supportedFrameworks: []
+  secrets: []
+  services: []
+  knowledgebases: []
+  instruction: []
+usage:
+  develop:
+    agents: []
+    layout: ''
+    run:
+      - shell:
+          command: npx http-server
+  install:
+    steps: []
+    customInstallationAgent:
+      enabled: false
+      agent: ''
+  appUse:
+    prerunsteps: []
+    agents: []
+    layout: ''
+    appPreview:
+      type: ''
